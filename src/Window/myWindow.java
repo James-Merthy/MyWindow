@@ -8,14 +8,16 @@ public class myWindow extends JFrame {
 
         super("First Swing ");
 
+        this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);// Dispose On close libere toute les recousres de la fenêtre ...
+
     }
 
 
 
     public static void main(String[] args) {
 
-        System.out.println("init");
-        System.out.println("hello");
+        myWindow window = new myWindow();
+        window.setVisible(true);
 
     }
 }
