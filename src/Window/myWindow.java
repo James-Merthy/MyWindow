@@ -15,6 +15,7 @@ public class myWindow extends JFrame {
     public static void main(String[] args) {
 
         System.out.println("init");
+        System.out.println("hello");
 
     }
 }
