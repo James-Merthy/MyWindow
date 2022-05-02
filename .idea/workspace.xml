@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2398b278-8f3b-405c-858a-10a1307e7e00" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Window/myWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Window/myWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainWindow.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainWindow.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -44,6 +46,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -111,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651491381898</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MainWindow cree">
+      <created>1651492722297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651492722297</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +132,7 @@
     <MESSAGE value="maj 1" />
     <MESSAGE value="maj 2" />
     <MESSAGE value="Boutton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Boutton" />
+    <MESSAGE value="MainWindow cree" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainWindow cree" />
   </component>
 </project>
